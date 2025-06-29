@@ -88,7 +88,7 @@ A *Use Case Diagram* is a type of Unified Modeling Language (UML) diagram that p
 * **Communication**: Models serve as a common language. A diagram can convey information much more efficiently and with less ambiguity than pages of text.
 
 Here is a use case diagram for the booking system, listing actors and use cases:
-![alx-booking-uc (2)](https://github.com/user-attachments/assets/318482b7-9ea7-4d2b-84ac-28dd963b5eea)
+![alx-booking-uc](https://github.com/user-attachments/assets/318482b7-9ea7-4d2b-84ac-28dd963b5eea)
 
 ## Acceptance Criteria
 
